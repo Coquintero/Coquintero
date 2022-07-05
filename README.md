@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [@coquintero](@coquintero)
 
-- 💬 Ask me about **Angular, .NET Core, Node**
+- 💬 Ask me about **Angular, .NET Core, Node, X++, C/AL, Microsft Dynamics AX, Microsft Dynamics NAV**
 <!---
 - 📫 How to reach me **coquintero@hotmail.com**
 --->
